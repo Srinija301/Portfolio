@@ -1,0 +1,92 @@
+body {
+    background-image: url('images/portfolioimg.jpeg');
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+header {
+    background-color: #b38a4c;
+    color: white;
+    padding: 20px 40px;
+}
+
+
+/* Change the position property to fixed, and top property to 0 */
+
+.navbar-light .navbar-nav .nav-link {
+    color: #b38a4c;
+    font-size: 26px;
+}
+
+.navbar-nav>li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+/* Change the z-index property to 10 */
+
+.space {
+    margin-bottom: 400px;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 200%;
+    align-content: center;
+    margin-left: 390px;
+    margin-top: 70px;
+}
+
+.jumbotron {
+    background: rgba(232, 232, 232, 0.5);
+    text-align: center;
+    padding-bottom: 50px;
+    margin-bottom: 0px;
+}
+
+.jumbotron h2 {
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: none;
+    color: #b38a4c;
+    opacity: 2;
+    padding-top: 30px;
+}
+
+.jumbotron p {
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    opacity: 2;
+}
+
+.top-wrapper {
+    background-color: #b38a4c;
+    text-align: center;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.top-wrapper h2 {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 30px;
+}
+
+.top-wrapper p {
+    text-align: center;
+    color: #ffffff;
+    opacity: 1;
+    padding-bottom: 50px;
+    block-size: auto;
+    padding-right: 120px;
+    padding-top: 30px;
+    padding-left: 120px;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}

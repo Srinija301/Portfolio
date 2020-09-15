@@ -1,0 +1,39 @@
+body {
+    background-image: url('images/acad.jpg ');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+}
+
+.ed {
+    text-align: center;
+    background-color: white;
+    color: #b38a4c;
+    font-size: large;
+    border-bottom: #b38a4c;
+    border-color: #b38a4c;
+}
+
+.ed p {
+    color: black;
+    text-align: center;
+}
+
+img {
+    box-sizing: content-box;
+    width: 940px;
+    height: 440px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.table {
+    table-layout: auto;
+    background-color: #b38a4c;
+}
+
+.container {
+    margin-top: 300px;
+    height: 150%;
+    width: 150%;
+}

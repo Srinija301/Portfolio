@@ -1,0 +1,29 @@
+body {
+    background-image: url('images/experience.webp');
+    background-size: 2050px;
+    font-family: "Avenir Next";
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+}
+
+.container p {
+    color: #b38a4c;
+    font-size: 26px;
+}
+
+.container a :active {
+    text-align: center;
+}
+
+.row {
+    background-color: #b38a4c;
+    color: white;
+}
+
+.container-1 {
+    margin-top: 200px;
+}
