@@ -4,7 +4,15 @@ body {
     background-size: cover;
     background-color: transparent;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: #b38a4c;
+    font-size: 26px;
+}
 
+.navbar-nav>li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
 .ed {
     text-align: center;
     background-color: white;
